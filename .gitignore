@@ -61,5 +61,11 @@ dkms.conf
 **/.ssh/known_hosts
 
 market
+*.dll
+*.exe
+*.o
+*.so
+*.com
+*.class
 
 # End of https://www.toptal.com/developers/gitignore/api/ssh,c
